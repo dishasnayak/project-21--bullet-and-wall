@@ -1,2 +1,2 @@
-# project-21--bullet-and-wall
-game
+# p5.play-boilerplate
+Boiler plate for p5.play
